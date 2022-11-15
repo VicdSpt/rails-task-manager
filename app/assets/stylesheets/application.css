@@ -13,3 +13,41 @@
  *= require_tree .
  *= require_self
  */
+
+  .container {
+    background-color: lightsalmon;
+    border: 5px solid black;
+    padding: 10px;
+    margin: auto;
+  }
+
+  .tasks {
+    color: red  ;
+  }
+
+ .title {
+  font-variant: small-caps;
+  color: black;
+ }
+
+ .link {
+  font-weight: bolder;
+ }
+
+ .new {
+  color: blueviolet;
+  font-variant: small-caps;
+ }
+
+ .edit {
+  color: darkorange;
+  font-variant: small-caps;
+ }
+
+ .btn {
+  border-radius: 25px;
+ }
+
+ .card {
+  color: brown;
+ }
